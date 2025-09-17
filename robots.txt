@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /uploads/
+
+Sitemap: https://www.binaryshield.in/sitemap.xml
